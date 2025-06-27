@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MadHat_PortalMapping extension
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the MadHat License.
+ *
+ * @category  MadHat
+ * @package   MadHat_PortalMapping
+ * @copyright Copyright (c) 2021
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Ppn_CustomModule" setup_version="1.0.0">
+    </module>
+</config>
